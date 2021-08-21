@@ -209,3 +209,51 @@ path.current-floor {
   border: none;
   background-color: #fff;
 }
+.footer {
+  margin-top: 99px;
+  height: 171px;
+  left: 0px;
+  top: 853px;
+  background: #D7D7D7;
+}
+.footer-nav {
+  max-width: 1280px;
+  margin: auto;
+  padding-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.contact-phone {
+  display: flex;
+}
+.contact-phone span{
+  display: flex;
+}
+.contact {
+  padding-right: 59px;
+}
+.social-networks{
+  padding-top: 10px;
+}
+.footer-text-link{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  text-decoration-line: underline;
+  color: #635854;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 0px 20px;
+}
+.link-social{
+  text-decoration: none;
+  padding-right: 10px;
+}
+.footer-contact-tel{
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 20px;
+  color: #635854;
+}
